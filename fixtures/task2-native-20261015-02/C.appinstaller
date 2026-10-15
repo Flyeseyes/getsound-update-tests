@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018" Uri="https://raw.githubusercontent.com/Flyeseyes/getsound-update-tests/main/fixtures/task2-native-20261015-02/discovery.appinstaller" Version="0.0.3.0"><MainPackage Name="GetSound.MSIXWebTest20261015" Publisher="CN=GetSound MSIX Acceptance 20261015" Version="0.0.3.0" ProcessorArchitecture="x64" Uri="https://raw.githubusercontent.com/Flyeseyes/getsound-update-tests/9983b32b07064bf00d6aaa5c18a901cde1e96262/fixtures/task2-native-20261015-02/C.msix" /></AppInstaller>
